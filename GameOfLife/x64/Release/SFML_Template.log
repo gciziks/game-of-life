@@ -1,0 +1,9 @@
+﻿  Game.cpp
+C:\Users\Gabriel\Desktop\C++\zGOL_C++\SFML_Template\SFML_Template\Game.cpp(38,45): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\Gabriel\Desktop\C++\zGOL_C++\SFML_Template\SFML_Template\Game.cpp(38,39): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\Gabriel\Desktop\C++\zGOL_C++\SFML_Template\SFML_Template\Game.cpp(61,18): warning C4156: exclusão de uma expressão de matriz sem o uso da forma matricial de 'delete'; forma matricial substituída
+  Gerando código
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 128 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finalizada a geração de código
+  SFML_Template.vcxproj -> C:\Users\Gabriel\Desktop\C++\zGOL_C++\SFML_Template\x64\Release\SFML_Template.exe
